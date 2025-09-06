@@ -63,7 +63,7 @@ const Header = () => {
             <Link to="/" className="flex items-center space-x-3 group">
               <div className="relative">
                 <img 
-                  src="/public/WhatsApp Image 2025-09-06 at 06.15.50.jpeg" 
+                  src="/WhatsApp Image 2025-09-06 at 06.15.50.jpeg" 
                   alt="Footsteps Furniture" 
                   className="h-12 w-12 rounded-lg shadow-md group-hover:shadow-lg transition-shadow duration-200"
                 />
